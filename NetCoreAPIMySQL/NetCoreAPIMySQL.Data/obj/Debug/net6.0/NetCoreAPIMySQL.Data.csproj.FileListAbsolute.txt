@@ -1,0 +1,15 @@
+D:\datos_a_salvar\ProyectosHojaDeVida\TiendaAguacates\NetCoreAPIMySQL\NetCoreAPIMySQL.Data\bin\Debug\net6.0\NetCoreAPIMySQL.Data.deps.json
+D:\datos_a_salvar\ProyectosHojaDeVida\TiendaAguacates\NetCoreAPIMySQL\NetCoreAPIMySQL.Data\bin\Debug\net6.0\NetCoreAPIMySQL.Data.dll
+D:\datos_a_salvar\ProyectosHojaDeVida\TiendaAguacates\NetCoreAPIMySQL\NetCoreAPIMySQL.Data\bin\Debug\net6.0\NetCoreAPIMySQL.Data.pdb
+D:\datos_a_salvar\ProyectosHojaDeVida\TiendaAguacates\NetCoreAPIMySQL\NetCoreAPIMySQL.Data\bin\Debug\net6.0\NetCoreAPIMySQL.Model.dll
+D:\datos_a_salvar\ProyectosHojaDeVida\TiendaAguacates\NetCoreAPIMySQL\NetCoreAPIMySQL.Data\bin\Debug\net6.0\NetCoreAPIMySQL.Model.pdb
+D:\datos_a_salvar\ProyectosHojaDeVida\TiendaAguacates\NetCoreAPIMySQL\NetCoreAPIMySQL.Data\obj\Debug\net6.0\NetCoreAPIMySQL.Data.csproj.AssemblyReference.cache
+D:\datos_a_salvar\ProyectosHojaDeVida\TiendaAguacates\NetCoreAPIMySQL\NetCoreAPIMySQL.Data\obj\Debug\net6.0\NetCoreAPIMySQL.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\datos_a_salvar\ProyectosHojaDeVida\TiendaAguacates\NetCoreAPIMySQL\NetCoreAPIMySQL.Data\obj\Debug\net6.0\NetCoreAPIMySQL.Data.AssemblyInfoInputs.cache
+D:\datos_a_salvar\ProyectosHojaDeVida\TiendaAguacates\NetCoreAPIMySQL\NetCoreAPIMySQL.Data\obj\Debug\net6.0\NetCoreAPIMySQL.Data.AssemblyInfo.cs
+D:\datos_a_salvar\ProyectosHojaDeVida\TiendaAguacates\NetCoreAPIMySQL\NetCoreAPIMySQL.Data\obj\Debug\net6.0\NetCoreAPIMySQL.Data.csproj.CoreCompileInputs.cache
+D:\datos_a_salvar\ProyectosHojaDeVida\TiendaAguacates\NetCoreAPIMySQL\NetCoreAPIMySQL.Data\obj\Debug\net6.0\NetCoreAPIMySQL.Data.csproj.CopyComplete
+D:\datos_a_salvar\ProyectosHojaDeVida\TiendaAguacates\NetCoreAPIMySQL\NetCoreAPIMySQL.Data\obj\Debug\net6.0\NetCoreAPIMySQL.Data.dll
+D:\datos_a_salvar\ProyectosHojaDeVida\TiendaAguacates\NetCoreAPIMySQL\NetCoreAPIMySQL.Data\obj\Debug\net6.0\refint\NetCoreAPIMySQL.Data.dll
+D:\datos_a_salvar\ProyectosHojaDeVida\TiendaAguacates\NetCoreAPIMySQL\NetCoreAPIMySQL.Data\obj\Debug\net6.0\NetCoreAPIMySQL.Data.pdb
+D:\datos_a_salvar\ProyectosHojaDeVida\TiendaAguacates\NetCoreAPIMySQL\NetCoreAPIMySQL.Data\obj\Debug\net6.0\ref\NetCoreAPIMySQL.Data.dll

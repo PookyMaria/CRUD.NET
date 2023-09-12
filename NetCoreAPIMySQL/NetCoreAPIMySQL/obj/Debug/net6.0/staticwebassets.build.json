@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "++TeKWgK6VV1gxsP7LBtiM1mGJWY94YSMzFVUAHltBE=",
+  "Source": "NetCoreAPIMySQL",
+  "BasePath": "_content/NetCoreAPIMySQL",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

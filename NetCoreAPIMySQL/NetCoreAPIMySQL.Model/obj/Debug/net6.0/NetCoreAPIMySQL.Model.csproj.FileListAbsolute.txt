@@ -1,0 +1,11 @@
+D:\datos_a_salvar\ProyectosHojaDeVida\TiendaAguacates\NetCoreAPIMySQL\NetCoreAPIMySQL.Model\bin\Debug\net6.0\NetCoreAPIMySQL.Model.deps.json
+D:\datos_a_salvar\ProyectosHojaDeVida\TiendaAguacates\NetCoreAPIMySQL\NetCoreAPIMySQL.Model\bin\Debug\net6.0\NetCoreAPIMySQL.Model.dll
+D:\datos_a_salvar\ProyectosHojaDeVida\TiendaAguacates\NetCoreAPIMySQL\NetCoreAPIMySQL.Model\bin\Debug\net6.0\NetCoreAPIMySQL.Model.pdb
+D:\datos_a_salvar\ProyectosHojaDeVida\TiendaAguacates\NetCoreAPIMySQL\NetCoreAPIMySQL.Model\obj\Debug\net6.0\NetCoreAPIMySQL.Model.GeneratedMSBuildEditorConfig.editorconfig
+D:\datos_a_salvar\ProyectosHojaDeVida\TiendaAguacates\NetCoreAPIMySQL\NetCoreAPIMySQL.Model\obj\Debug\net6.0\NetCoreAPIMySQL.Model.AssemblyInfoInputs.cache
+D:\datos_a_salvar\ProyectosHojaDeVida\TiendaAguacates\NetCoreAPIMySQL\NetCoreAPIMySQL.Model\obj\Debug\net6.0\NetCoreAPIMySQL.Model.AssemblyInfo.cs
+D:\datos_a_salvar\ProyectosHojaDeVida\TiendaAguacates\NetCoreAPIMySQL\NetCoreAPIMySQL.Model\obj\Debug\net6.0\NetCoreAPIMySQL.Model.csproj.CoreCompileInputs.cache
+D:\datos_a_salvar\ProyectosHojaDeVida\TiendaAguacates\NetCoreAPIMySQL\NetCoreAPIMySQL.Model\obj\Debug\net6.0\NetCoreAPIMySQL.Model.dll
+D:\datos_a_salvar\ProyectosHojaDeVida\TiendaAguacates\NetCoreAPIMySQL\NetCoreAPIMySQL.Model\obj\Debug\net6.0\refint\NetCoreAPIMySQL.Model.dll
+D:\datos_a_salvar\ProyectosHojaDeVida\TiendaAguacates\NetCoreAPIMySQL\NetCoreAPIMySQL.Model\obj\Debug\net6.0\NetCoreAPIMySQL.Model.pdb
+D:\datos_a_salvar\ProyectosHojaDeVida\TiendaAguacates\NetCoreAPIMySQL\NetCoreAPIMySQL.Model\obj\Debug\net6.0\ref\NetCoreAPIMySQL.Model.dll
